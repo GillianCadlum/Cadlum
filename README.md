@@ -11,16 +11,15 @@
             background-color: #F5F5DC;
             margin: 0;
             padding: 20px;
-            color: #FF3392;
-        }
+            color: #FF3392;}
 
-        header {
+       {header}
             background-color: #F19BA5;
             color: #2E2C7F;
             padding: 10px 0;
             text-align: center;
-            font-weight: bold;
-        }
+            font-weight: bold; 
+
 
         nav {
             margin: 20px 0;
@@ -71,7 +70,7 @@
             <li>I really love travelling and playing CODM during my leisure time.⋆｡˚ ✈︎ ⋆°•☁︎</li>
             <li>One of My Hobbies is I really like listening to Music and My Favorite Song is "Ivy" by Frank Ocean.♫⋆｡♪ ₊˚♬ ﾟ</li>
         </ul>
-    </main
+    </main>
 
     <footer>
         &copy; 2024 My Sample Webpage. All rights reserved.
